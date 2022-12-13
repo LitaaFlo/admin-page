@@ -32,3 +32,6 @@
 
   name: 'admin1',
   password: '111111'
+
+  name: 'admin2',
+  password: '111111'
