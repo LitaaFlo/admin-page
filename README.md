@@ -1,6 +1,6 @@
 # Тестовое задание
 
-Для локаотного запуска выполнить 
+Для локального запуска выполнить:
 ### `npm i`
 ### `npm start`
 
@@ -38,3 +38,13 @@
 
   name: 'admin3',
   password: '111111'
+
+  name: 'admin3',
+  password: '111111'
+  git 
+
+  sfjfjksfjkskf
+  sfjshfkj
+
+1111
+2222
